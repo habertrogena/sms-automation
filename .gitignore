@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+
+# Bytecode
+__pycache__/
+*.pyc
+
+# Logs
+data/sms_log.txt
+
+# System files
+.DS_Store
+
+# Temporary files
+*.tmp
+
+# IDE configs
+.vscode/
+.idea/
+
+# Python build artifacts
+dist/
+build/
