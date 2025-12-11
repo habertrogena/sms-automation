@@ -1,0 +1,214 @@
+[2025-12-04 03:58:58] FAILED - 0701588751 - Start call error: No call_id returned by API
+[2025-12-04 03:58:58] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 04:00:12] FAILED - 0701588751 - Start call error: No call_id returned by API
+[2025-12-04 04:00:12] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 04:01:32] FAILED - 0701588751 - Start call error: No call_id returned by API
+[2025-12-04 04:01:32] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 04:02:06] FAILED - 0701588751 - Start call error: No call_id returned by API
+[2025-12-04 04:02:06] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 04:04:33] FAILED - +254701588751 - Invalid number format
+[2025-12-04 04:04:33] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 04:05:39] FAILED - +254701588751 - Invalid number format
+[2025-12-04 04:05:39] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 04:06:52] FAILED - 0701588751 - Invalid number format
+[2025-12-04 04:06:52] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 10:18:03] FAILED - 0701588751 - Invalid number format
+[2025-12-04 10:18:03] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 10:36:55] FAILED - 0707081217 - Invalid number format
+[2025-12-04 10:36:55] FAILED - 0731305183 - Invalid number format
+[2025-12-04 10:36:55] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 10:46:33] FAILED - +254707081217 - End call failed: 404
+[2025-12-04 10:46:39] FAILED - +254731305183 - End call failed: 404
+[2025-12-04 10:46:39] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 10:49:24] FAILED - +254707081217 - End call failed: 404
+[2025-12-04 10:49:29] FAILED - +254731305183 - End call failed: 404
+[2025-12-04 10:49:29] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 11:33:42] FAILED - test - No active call found
+[2025-12-04 11:33:42] FAILED - 123 - Invalid USSD format - must start with * and end with #
+[2025-12-04 11:34:17] FAILED - +254701588751 - No active call found
+[2025-12-04 11:34:22] FAILED - +254741273216 - No active call found
+[2025-12-04 11:34:22] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 11:36:43] FAILED - +254701588751 - No active call found
+[2025-12-04 11:36:48] FAILED - +254741273216 - No active call found
+[2025-12-04 11:36:48] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 11:37:38] FAILED - +254707081217 - No active call found
+[2025-12-04 11:37:43] FAILED - +254731305183 - No active call found
+[2025-12-04 11:37:43] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 11:42:00] FAILED - +254712345678 - No active call found
+[2025-12-04 11:42:03] FAILED - +254712345678 - No active call found
+[2025-12-04 11:42:05] FAILED - +254731305183 - No active call found
+[2025-12-04 11:42:08] FAILED - +254731305183 - No active call found
+[2025-12-04 11:42:08] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 11:44:01] FAILED - +254712345678 - No active call found
+[2025-12-04 11:44:05] FAILED - +254712345678 - No active call found
+[2025-12-04 11:44:07] FAILED - +254731305183 - No active call found
+[2025-12-04 11:44:10] FAILED - +254731305183 - No active call found
+[2025-12-04 11:44:10] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 11:45:51] FAILED - +254712345678 - Server error - call operation failed
+[2025-12-04 11:45:54] FAILED - +254712345678 - Server error - call operation failed
+[2025-12-04 11:45:56] FAILED - +254731305183 - Server error - call operation failed
+[2025-12-04 11:45:59] FAILED - +254731305183 - Server error - call operation failed
+[2025-12-04 11:45:59] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 11:46:31] FAILED - +254712345678 - No active call found
+[2025-12-04 11:46:34] FAILED - +254712345678 - No active call found
+[2025-12-04 11:46:36] FAILED - +254731305183 - No active call found
+[2025-12-04 11:46:39] FAILED - +254731305183 - No active call found
+[2025-12-04 11:46:39] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 11:52:03] FAILED - +254712345678 - No active call found
+[2025-12-04 11:52:09] FAILED - +254731305183 - No active call found
+[2025-12-04 11:52:10] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 11:52:37] FAILED - +254712345678 - No active call found
+[2025-12-04 11:52:43] FAILED - +254731305183 - No active call found
+[2025-12-04 11:52:44] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 11:53:42] FAILED - +254712345678 - No active call found
+[2025-12-04 11:53:48] FAILED - +254731305183 - No active call found
+[2025-12-04 11:53:49] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 11:57:03] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 11:58:47] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 11:59:46] FAILED - +254712345678 - Authentication failed - check username/password
+[2025-12-04 11:59:46] FAILED - 254712345678 - Authentication failed - check username/password
+[2025-12-04 11:59:46] FAILED - 0712345678 - Authentication failed - check username/password
+[2025-12-04 11:59:46] FAILED - +254731305183 - Authentication failed - check username/password
+[2025-12-04 11:59:46] FAILED - 254731305183 - Authentication failed - check username/password
+[2025-12-04 11:59:46] FAILED - 0731305183 - Authentication failed - check username/password
+[2025-12-04 11:59:46] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:00:47] FAILED - +254712345678 - Server error - call operation failed
+[2025-12-04 12:00:54] FAILED - +254731305183 - Server error - call operation failed
+[2025-12-04 12:00:55] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:01:56] FAILED - +254712345678 - Server error - call operation failed
+[2025-12-04 12:02:03] FAILED - +254731305183 - Server error - call operation failed
+[2025-12-04 12:02:04] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:02:52] FAILED - +254712345678 - Server error - call operation failed
+[2025-12-04 12:02:53] FAILED - +254712345678 - Server error - call operation failed
+[2025-12-04 12:02:53] FAILED - +254712345678 - Server error - call operation failed
+[2025-12-04 12:02:59] FAILED - +254731305183 - Server error - call operation failed
+[2025-12-04 12:03:00] FAILED - +254731305183 - Server error - call operation failed
+[2025-12-04 12:03:01] FAILED - +254731305183 - Server error - call operation failed
+[2025-12-04 12:03:02] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:04:04] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:07:21] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:08:04] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:10:00] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:11:44] FAILED - +254712345678 - Connection error - check device IP and port
+[2025-12-04 12:11:44] FAILED - 254712345678 - Connection error - check device IP and port
+[2025-12-04 12:11:44] FAILED - 0712345678 - Connection error - check device IP and port
+[2025-12-04 12:11:44] FAILED - +254731305183 - Connection error - check device IP and port
+[2025-12-04 12:11:44] FAILED - 254731305183 - Connection error - check device IP and port
+[2025-12-04 12:11:44] FAILED - 0731305183 - Connection error - check device IP and port
+[2025-12-04 12:11:44] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:12:32] FAILED - +254712345678 - Connection error - check device IP and port
+[2025-12-04 12:12:32] FAILED - 254712345678 - Connection error - check device IP and port
+[2025-12-04 12:12:32] FAILED - 0712345678 - Connection error - check device IP and port
+[2025-12-04 12:12:32] FAILED - +254731305183 - Connection error - check device IP and port
+[2025-12-04 12:12:32] FAILED - 254731305183 - Connection error - check device IP and port
+[2025-12-04 12:12:32] FAILED - 0731305183 - Connection error - check device IP and port
+[2025-12-04 12:12:32] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:13:11] FAILED - +254712345678 - Server error - call operation failed (status: 500)
+[2025-12-04 12:13:11] FAILED - +254712345678 - Server error - call operation failed
+[2025-12-04 12:13:12] FAILED - +254712345678 - Server error - call operation failed
+[2025-12-04 12:13:17] FAILED - +254731305183 - Server error - call operation failed (status: 500)
+[2025-12-04 12:13:17] FAILED - +254731305183 - Server error - call operation failed
+[2025-12-04 12:13:18] FAILED - +254731305183 - Server error - call operation failed
+[2025-12-04 12:13:18] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:17:43] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:21:12] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:23:03] FAILED - +254712345678 - Connection error - check device IP and port
+[2025-12-04 12:23:03] FAILED - 254712345678 - Connection error - check device IP and port
+[2025-12-04 12:23:03] FAILED - 0712345678 - Connection error - check device IP and port
+[2025-12-04 12:23:03] FAILED - +254731305183 - Connection error - check device IP and port
+[2025-12-04 12:23:03] FAILED - 254731305183 - Connection error - check device IP and port
+[2025-12-04 12:23:03] FAILED - 0731305183 - Connection error - check device IP and port
+[2025-12-04 12:23:03] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:23:21] FAILED - +254712345678 - Authentication failed - check username/password
+[2025-12-04 12:23:22] FAILED - 254712345678 - Authentication failed - check username/password
+[2025-12-04 12:23:22] FAILED - 0712345678 - Authentication failed - check username/password
+[2025-12-04 12:23:22] FAILED - +254731305183 - Authentication failed - check username/password
+[2025-12-04 12:23:22] FAILED - 254731305183 - Authentication failed - check username/password
+[2025-12-04 12:23:22] FAILED - 0731305183 - Authentication failed - check username/password
+[2025-12-04 12:23:22] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:24:03] FAILED - +254712345678 - Authentication failed - check username/password
+[2025-12-04 12:24:03] FAILED - 254712345678 - Authentication failed - check username/password
+[2025-12-04 12:24:03] FAILED - 0712345678 - Authentication failed - check username/password
+[2025-12-04 12:24:03] FAILED - +254731305183 - Authentication failed - check username/password
+[2025-12-04 12:24:03] FAILED - 254731305183 - Authentication failed - check username/password
+[2025-12-04 12:24:03] FAILED - 0731305183 - Authentication failed - check username/password
+[2025-12-04 12:24:03] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:24:43] FAILED - +254712345678 - Authentication failed - check username/password
+[2025-12-04 12:24:43] FAILED - 254712345678 - Authentication failed - check username/password
+[2025-12-04 12:24:43] FAILED - 0712345678 - Authentication failed - check username/password
+[2025-12-04 12:24:43] FAILED - +254731305183 - Authentication failed - check username/password
+[2025-12-04 12:24:43] FAILED - 254731305183 - Authentication failed - check username/password
+[2025-12-04 12:24:43] FAILED - 0731305183 - Authentication failed - check username/password
+[2025-12-04 12:24:43] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:25:34] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 12:26:42] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 13:08:29] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 19:22:30] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 19:26:23] SUCCESS - Call to 0712345678
+[2025-12-04 19:26:30] SUCCESS - Call to 0731305183
+[2025-12-04 19:26:31] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 19:29:05] SUCCESS - Call to 0712345678
+[2025-12-04 19:29:12] SUCCESS - Call to 0731305183
+[2025-12-04 19:29:13] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 19:36:41] SUCCESS - Call to 0712345678
+[2025-12-04 19:36:47] SUCCESS - Call to 0731305183
+[2025-12-04 19:36:48] FAILED - 0784jghtf - Invalid number format
+[2025-12-04 19:48:48] SUCCESS - Call to 0712345678
+[2025-12-04 19:48:55] SUCCESS - Call to 0731305183
+[2025-12-04 19:48:56] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 10:36:50] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 10:38:21] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 10:42:41] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 10:45:16] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 11:22:13] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 11:25:50] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 11:26:48] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:09:09] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:27:05] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:27:50] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:28:40] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:33:29] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:34:38] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:38:29] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:40:14] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:41:22] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:41:51] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:48:12] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:48:56] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:50:01] FAILED - 0731305183 - Error: HTTPSConnectionPool(host='trigger.macrodroid.com', port=443): Read timed out. (read timeout=2)
+[2025-12-05 12:50:01] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:50:27] FAILED - 0731305183 - Error: HTTPSConnectionPool(host='trigger.macrodroid.com', port=443): Read timed out. (read timeout=2)
+[2025-12-05 12:50:27] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:51:22] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:51:47] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:53:13] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:56:58] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:57:45] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 12:58:27] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:06:08] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:16:26] FAILED - 0731305183 - Error: HTTPSConnectionPool(host='trigger.macrodroid.com', port=443): Read timed out. (read timeout=2)
+[2025-12-05 13:16:26] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:17:02] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:17:43] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:18:51] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:20:23] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:20:56] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:22:01] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:25:35] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:28:55] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:30:00] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:37:51] FAILED - 0731305183 - Error: HTTPSConnectionPool(host='trigger.macrodroid.com', port=443): Read timed out. (read timeout=2)
+[2025-12-05 13:37:51] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:39:00] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:39:59] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:45:08] FAILED - 0700000000 - Error: HTTPSConnectionPool(host='trigger.macrodroid.com', port=443): Read timed out. (read timeout=2)
+[2025-12-05 13:45:08] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:48:08] FAILED - 0700000000 - Error: HTTPSConnectionPool(host='trigger.macrodroid.com', port=443): Read timed out. (read timeout=2)
+[2025-12-05 13:48:08] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 13:52:25] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 14:02:28] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 19:54:57] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 19:56:44] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 19:59:37] FAILED - 0784jghtf - Invalid number format
+[2025-12-05 20:34:00] FAILED - 0784jghtf - Invalid number format
+[2025-12-11 22:53:11] FAILED - 0784jghtf - Invalid number format
