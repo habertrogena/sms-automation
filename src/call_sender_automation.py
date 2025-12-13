@@ -114,26 +114,6 @@ def main():
     print("  4. Update MACRODROID_WEBHOOK_URL in this script")
     print()
     
-    # Test connection
-    print("Testing MacroDroid webhook connection...")
-    test_number = "0712345678"
-    
-    # Test MacroDroid webhook
-    success, error = call_via_macrodroid_webhook(test_number)
-    if not success:
-        print("⚠ Cannot connect to MacroDroid webhook")
-        print(f"  Error: {error}")
-        print()
-        print("Please:")
-        print("  1. Set up MacroDroid webhook")
-        print("  2. Get webhook URL from MacroDroid")
-        print("  3. Update MACRODROID_WEBHOOK_URL in this script")
-        print("  4. See AUTOMATION_APPS_SETUP.md for instructions")
-        return
-    
-    print("✓ MacroDroid webhook connection works!")
-    
-    print()
     print("Processing calls...")
     print()
     
